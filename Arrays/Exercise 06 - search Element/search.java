@@ -9,7 +9,7 @@ public class search {
 
         System.out.println(number_In_index);
     }
-
+//Linear Search
     static int ssearch(int[] arr , int size , int n )
     {
         int i = 0;
